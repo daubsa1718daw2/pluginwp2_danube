@@ -8,4 +8,5 @@ Author: El teu nom i cognom
 Author URI: L'adreça URL del teu compte de Github
 License: GNU GPLv3
 */
+
 ?>
